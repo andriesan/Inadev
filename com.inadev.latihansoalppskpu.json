@@ -1,7 +1,7 @@
 {
 	"redirect" : {
 	
-	// punya andri bismilah
+	// punya andri diganti admobe yovi
 	
 	
 "HOMEURL" : "https://soalkpu.blogspot.com/p/sitemap.html",
@@ -25,10 +25,10 @@
 	// Mode APPLOVIN Applovin backup Unity Backup Startapp
 	
 	"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-	"PENGATURAN_IKLAN_INTER" : "ADMOB",
+	"PENGATURAN_IKLAN_INTER" : "FAN",
 	"PENGATURAN_IKLAN_NATIVE" : "FAN",
 	
-	"INTER_COUNT" : "4",
+	"INTER_COUNT" : "15",
 	
 	"ENABLE_STRAP" : true,
 	"ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -40,8 +40,7 @@
 	
 
 "STARTAPPID" : "211850735",
-
-"ADMOB_BANNER" : "ca-app-pub-5674572091025512/4162373223",
+"ADMOB_BANNER" : "ca-app-pub-6691887826915401/4212259828",
 "ADMOB_INTER" : "ca-app-pub-5674572091025512/2414177285",
 "ADMOB_NATIV" : "0",
 

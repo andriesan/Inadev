@@ -3,7 +3,7 @@
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
 // pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+// 
 
 "HOMEURL" : "https://panwasludesa.blogspot.com/p/sitemap.html",
 
@@ -25,11 +25,11 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "APPLOVIN",
 "PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
-"INTER_COUNT" : "2",
+"INTER_COUNT" : "9",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -41,7 +41,7 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_BANNER" : "ca-app-pub-6691887826915401/5317457939",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
@@ -70,7 +70,7 @@
 "EXIT_POPUP_DIALOG" : "
 Agar Kami lebih semangat mengembangkan Aplikasi ini
 
-Bantu kami dengan rating bingtang 5 ya 
+Bantu kami dengan rating bintang 5 ya 
 
 Klik tombol rating 
 ",

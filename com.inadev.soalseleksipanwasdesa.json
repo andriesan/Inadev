@@ -25,8 +25,8 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_BANNER" : "ADMOB", // banner admob yovi
+"PENGATURAN_IKLAN_INTER" : "ADMOB", // yovi admob yovi
 "PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
 "INTER_COUNT" : "9",
@@ -42,7 +42,7 @@
 "STARTAPPID" : "201365479",
 
 "ADMOB_BANNER" : "ca-app-pub-6691887826915401/5317457939",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_INTER" : "ca-app-pub-6691887826915401/2797275800",
 "ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
 
 "HPK_ALIENDROID" : "soal bawaslu",

@@ -42,15 +42,16 @@
 "STARTAPPID" : "208409178",
 
 "ADMOB_BANNER" : "ca-app-pub-6691887826915401/7036375812",
-"ADMOB_INTER" : "0",
-"ADMOB_NATIV" : "0",
+"ADMOB_INTER" : "ca-app-pub-6691887826915401/3842106961",
+"ADMOB_NATIV" : "ca-app-pub-6691887826915401/9142535105",
 
+ 
 "HPK_ALIENDROID" : "Pinjol",
 "HPK_ADMOB1" : "trading",
 "HPK_ADMOB2" : "keuangan",
-"HPK_ADMOB3" : "trading",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"HPK_ADMOB3" : "forex",
+"HPK_ADMOB4" : "CPNS",
+"HPK_ADMOB5" : "Pilkada",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",

@@ -47,7 +47,7 @@
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
       "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/sitemap.html"
     },
     {
       "name": "Portfolio",
@@ -121,4 +121,5 @@
       "app_open_ad_on_resume": true
     }
   }
+
 }

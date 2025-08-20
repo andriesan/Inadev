@@ -57,11 +57,11 @@
       "url_dark": "https://pppk-solodroid.blogspot.com/2025/08/plo.html"
     },
     {
-      "name": "Testimonials",
+      "name": "menu jomblo",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
+      "url": "https://pppk-solodroid.blogspot.com/2025/08/plo.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/2025/08/plo.html"
     },
     {
       "name": "Contact us",
@@ -123,5 +123,6 @@
   }
 
 }
+
 
 

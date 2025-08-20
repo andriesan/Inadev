@@ -50,11 +50,11 @@
       "url_dark": "https://pppk-solodroid.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "Portfolio",
+      "name": "Penata Layanan Op",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
+      "url": "https://pppk-solodroid.blogspot.com/2025/08/plo.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/2025/08/plo.html"
     },
     {
       "name": "Testimonials",
@@ -123,4 +123,5 @@
   }
 
 }
+
 

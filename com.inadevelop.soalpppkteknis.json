@@ -62,20 +62,6 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
       "url": "https://pppk-solodroid.blogspot.com/2025/08/plo.html",
       "url_dark": "https://pppk-solodroid.blogspot.com/2025/08/plo.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html"
     }
   ],
   "ads": {
@@ -123,6 +109,7 @@
   }
 
 }
+
 
 
 

@@ -50,12 +50,26 @@
       "url_dark": "https://pppk-solodroid.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "Penata Layanan Op",
+      "name": "Soal Manajerial",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://pppk-solodroid.blogspot.com/2025/08/plo.html",
-      "url_dark": "https://pppk-solodroid.blogspot.com/2025/08/plo.html"
+      "url": "https://pppkteknis.blogspot.com/p/menu-manajerial.html",
+      "url_dark": "https://pppkteknis.blogspot.com/p/menu-manajerial.html"
     },
+    {
+      "name": "Soal Sosio Kultural",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://pppkteknis.blogspot.com/p/menu-sosio-kultural.html",
+      "url_dark": "https://pppkteknis.blogspot.com/p/menu-sosio-kultural.html"
+    },
+    {
+      "name": "Soal TEKNIS",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html",
+      "url_dark": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html"
+    },    
     {
       "name": "menu jomblo",
       "type": "url",
@@ -109,6 +123,7 @@
   }
 
 }
+
 
 
 

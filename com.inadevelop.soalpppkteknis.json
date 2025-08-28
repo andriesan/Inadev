@@ -5,11 +5,11 @@
     "navigation_drawer": true,
     "geolocation": true,
     "cache": true,
-    "open_link_in_external_browser": false,
+    "open_link_in_external_browser": true,
     "zoom_controls": false,
     "user_agent": "",
     "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-    "more_apps_url": "https://play.solodroid.co.id/store/apps/",
+    "more_apps_url": "#",
     "redirect_url": ""
   },
   "intro": {
@@ -137,6 +137,7 @@
   }
 
 }
+
 
 
 

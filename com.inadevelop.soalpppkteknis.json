@@ -69,20 +69,6 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html",
       "url_dark": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html"
-    },    
-   {
-      "name": "Testimonials",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
     }
   ],
   "ads": {
@@ -130,6 +116,7 @@
   }
 
 }
+
 
 
 

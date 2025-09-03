@@ -46,29 +46,29 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://artidasarpancasila.blogspot.com/2025/08/menumenu.html",
-      "url_dark": "https://artidasarpancasila.blogspot.com/2025/08/menumenu.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/sitemap.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/sitemap.html"
     },
     {
       "name": "Soal Manajerial",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://pppkteknis.blogspot.com/p/menu-manajerial.html",
-      "url_dark": "https://pppkteknis.blogspot.com/p/menu-manajerial.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html"
     },
     {
       "name": "Soal Sosio Kultural",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://pppkteknis.blogspot.com/p/menu-sosio-kultural.html",
-      "url_dark": "https://pppkteknis.blogspot.com/p/menu-sosio-kultural.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-sosio-kultural.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-sosio-kultural.html"
     },
     {
       "name": "Soal TEKNIS",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html",
-      "url_dark": "https://pppkteknis.blogspot.com/p/menu-teknis_1.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html"
     }
   ],
   "ads": {
@@ -116,6 +116,7 @@
   }
 
 }
+
 
 
 

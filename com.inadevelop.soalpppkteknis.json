@@ -64,6 +64,14 @@
       "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-sosio-kultural.html"
     },
     {
+      "name": "Soal Wawancara",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-wawancara.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-wawancara.html"
+    },
+    
+    {
       "name": "Soal TEKNIS",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
@@ -116,6 +124,7 @@
   }
 
 }
+
 
 
 

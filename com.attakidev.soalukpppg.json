@@ -13,7 +13,7 @@
     "redirect_url": ""
   },
   "intro": {
-    "status": true,
+    "status": false,
     "sliders": [
       {
         "title": "Welcome to WebDroid",
@@ -46,23 +46,10 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
+      "url": "https://attakidev.blogspot.com/p/sitemap.html",
+      "url_dark": "https://attakidev.blogspot.com/p/sitemap.html"
     },
-    {
-      "name": "Portfolio",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
-    },
-    {
-      "name": "Testimonials",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
-    },
+
     {
       "name": "Contact us",
       "type": "url",
@@ -121,4 +108,5 @@
       "app_open_ad_on_resume": true
     }
   }
+
 }

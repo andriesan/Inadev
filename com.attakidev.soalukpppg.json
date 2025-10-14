@@ -49,7 +49,27 @@
       "url": "https://attakidev.blogspot.com/p/sitemap.html",
       "url_dark": "https://attakidev.blogspot.com/p/sitemap.html"
     },
-
+    {
+      "name": "Latihan Soal 1",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
+      "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
+    },
+        {
+      "name": "Latihan Soal 2",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
+      "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
+    },
+        {
+      "name": "Latihan Soal 3",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
+      "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
+    },
     {
       "name": "Contact us",
       "type": "url",
@@ -110,4 +130,5 @@
   }
 
 }
+
 

@@ -13,7 +13,7 @@
     "redirect_url": ""
   },
   "intro": {
-    "status": true,
+    "status": false,
     "sliders": [
       {
         "title": "Welcome to WebDroid",
@@ -46,8 +46,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
+      "url": "https://ukpppg-solodroid.blogspot.com/p/sitemap.html",
+      "url_dark": "https://ukpppg-solodroid.blogspot.com/p/sitemap.html"
     },
     {
       "name": "Portfolio",
@@ -79,7 +79,7 @@
     }
   ],
   "ads": {
-    "ad_status": true,
+    "ad_status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
@@ -121,4 +121,5 @@
       "app_open_ad_on_resume": true
     }
   }
+
 }

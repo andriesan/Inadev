@@ -8,7 +8,7 @@
     "open_link_in_external_browser": false,
     "zoom_controls": false,
     "user_agent": "",
-    "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+    "privacy_policy_url": "https://attaki-developer.blogspot.com/p/privacy.html",
     "more_apps_url": "",
     "redirect_url": ""
   },
@@ -50,33 +50,14 @@
       "url_dark": "https://attakidev.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "Latihan Soal 1",
+      "name": "Latihan Soal ",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
       "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
     },
-        {
-      "name": "Latihan Soal 2",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
-      "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
-    },
-        {
-      "name": "Latihan Soal 3",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://attakidev.blogspot.com/p/latihan-soal-1.html",
-      "url_dark": "https://attakidev.blogspot.com/p/latihan-soal-1.html"
-    },
-    {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
-    },
+       
+
     {
       "name": "Privacy Policy",
       "type": "assets",
@@ -130,6 +111,7 @@
   }
 
 }
+
 
 
 

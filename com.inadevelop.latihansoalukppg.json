@@ -50,11 +50,11 @@
       "url_dark": "https://ukpppg-solodroid.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "Portfolio",
+      "name": "getfiles",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/portfolio.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/portfolio.html"
+      "url": "https://get4files.blogspot.com/2025/12/yovi-soal-baru.html",
+      "url_dark": "https://get4files.blogspot.com/2025/12/yovi-soal-baru.html"
     },
     {
       "name": "Testimonials",
@@ -123,3 +123,4 @@
   }
 
 }
+

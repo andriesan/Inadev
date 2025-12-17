@@ -57,11 +57,11 @@
       "url_dark": "https://get4files.blogspot.com/2025/12/yovi-soal-baru.html"
     },
     {
-      "name": "Testimonials",
+      "name": "Perbaikan",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
+      "url": "https://get4files.blogspot.com/2025/12/perbaikan.html",
+      "url_dark": "https://get4files.blogspot.com/2025/12/perbaikan.html"
     },
     {
       "name": "Contact us",
@@ -123,4 +123,5 @@
   }
 
 }
+
 

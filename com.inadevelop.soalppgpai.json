@@ -50,32 +50,11 @@
       "url_dark": "https://ppgpai-solodroid.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "PPG PAI 1",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://ppg-inadev.blogspot.com/p/ppg18doc-2.html",
-      "url_dark": "https://ppg-inadev.blogspot.com/p/ppg18doc-2.html"
-    },
-    {
-      "name": "PPG PAI 2",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://ppg-inadev.blogspot.com/p/ppg18doc-2.html",
-      "url_dark": "https://ppg-inadev.blogspot.com/p/ppg18doc-2.html"
-    },
-    {
-      "name": "PPG PAI 3",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://ppg-inadev.blogspot.com/p/ppg17doc-3.html",
-      "url_dark": "https://ppg-inadev.blogspot.com/p/ppg17doc-3.html"
-    },
-    {
       "name": "Contact us",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/contact.html",
-      "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/contact.html"
+      "url": "https://form.jotform.com/260749266125461",
+      "url_dark": "https://form.jotform.com/260749266125461"
     },
     {
       "name": "Privacy Policy",

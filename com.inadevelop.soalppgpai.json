@@ -50,13 +50,6 @@
       "url_dark": "https://ppgpai-solodroid.blogspot.com/p/sitemap.html"
     },
     {
-      "name": "Contact us",
-      "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://form.jotform.com/260749266125461",
-      "url_dark": "https://form.jotform.com/260749266125461"
-    },
-    {
       "name": "Privacy Policy",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",

@@ -56,20 +56,28 @@
       "url": "https://cpns-solodroid.blogspot.com/p/twk1.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/twk1.html"
     },
-    {
+        {
       "name": "TIU",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/testimonials.html",
-      "url_dark": "hhttps://solodroidev.github.io/webdroid/pages/dark/testimonials.html"
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
+      "url": "https://cpns-solodroid.blogspot.com/p/tiu1.html",
+      "url_dark": "https://cpns-solodroid.blogspot.com/p/tiu1.html"
     },
-    {
+        {
       "name": "TKP",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://cpns-solodroid.blogspot.com/p/tkp1.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/tkp1.html"
     },
+    {
+      "name": "SIMULASI",
+      "type": "url",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
+      "url": "https://cpns-solodroid.blogspot.com/p/menu-simulasi.html",
+      "url_dark": "https://cpns-solodroid.blogspot.com/p/menu-simulasi.html"
+    },
+
     {
       "name": "Privacy Policy",
       "type": "assets",

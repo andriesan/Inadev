@@ -50,30 +50,30 @@
       "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
     },
     {
-      "name": "TWK",
+      "name": "Latihan Soal TWK",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://cpns-solodroid.blogspot.com/p/twk1.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/twk1.html"
     },
         {
-      "name": "TIU",
+      "name": "Latihan Soal TIU",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://cpns-solodroid.blogspot.com/p/tiu1.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/tiu1.html"
     },
         {
-      "name": "TKP",
+      "name": "Latihan Soal TKP",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://cpns-solodroid.blogspot.com/p/tkp1.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/tkp1.html"
     },
     {
-      "name": "SIMULASI",
+      "name": "SIMULASI UJIAN",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
+      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
       "url": "https://cpns-solodroid.blogspot.com/p/menu-simulasi.html",
       "url_dark": "https://cpns-solodroid.blogspot.com/p/menu-simulasi.html"
     },

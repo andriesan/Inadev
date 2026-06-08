@@ -53,22 +53,22 @@
       "name": "Latihan Soal TWK",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://cpns-solodroid.blogspot.com/p/twk1.html",
-      "url_dark": "https://cpns-solodroid.blogspot.com/p/twk1.html"
+      "url": "https://cpns-solodroid.blogspot.com/p/menu-twk.html",
+      "url_dark": "https://cpns-solodroid.blogspot.com/p/menu-twk.html"
     },
         {
       "name": "Latihan Soal TIU",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://cpns-solodroid.blogspot.com/p/tiu1.html",
-      "url_dark": "https://cpns-solodroid.blogspot.com/p/tiu1.html"
+      "url": "https://cpns-solodroid.blogspot.com/p/menu-tiu.html",
+      "url_dark": "https://cpns-solodroid.blogspot.com/p/menu-tiu.html"
     },
         {
       "name": "Latihan Soal TKP",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://cpns-solodroid.blogspot.com/p/tkp1.html",
-      "url_dark": "https://cpns-solodroid.blogspot.com/p/tkp1.html"
+      "url": "https://cpns-solodroid.blogspot.com/p/menu-tkp.html",
+      "url_dark": "https://cpns-solodroid.blogspot.com/p/menu-tkp.html"
     },
     {
       "name": "SIMULASI UJIAN",

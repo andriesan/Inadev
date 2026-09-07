@@ -71,14 +71,6 @@
      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html",
       "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html"
-    },
-	
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html"
     }
   ],
   "ads": {

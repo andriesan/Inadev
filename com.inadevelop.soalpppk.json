@@ -60,7 +60,7 @@
 	{
       "name": "Manajerial",
       "type": "url",
-      "icon": "https://img.icons8.com/?size=100&id=glOLAJEbXIQD&format=png&color=000000",
+     "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html",
       "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html"
     },
@@ -68,7 +68,7 @@
 	 	{
       "name": "Teknis",
       "type": "url",
-      "icon": "https://img.icons8.com/?size=100&id=glOLAJEbXIQD&format=png&color=000000",
+     "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
       "url": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html",
       "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html"
     },

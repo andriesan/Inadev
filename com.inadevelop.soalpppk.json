@@ -46,38 +46,33 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://ppgpai-solodroid.blogspot.com/2026/04/tahapan-ppg-daljab.html",
-      "url_dark": "https://ppgpai-solodroid.blogspot.com/2026/04/tahapan-ppg-daljab.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/sitemap.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/sitemap.html"
     },
-     {
-      "name": "Syarat PPG",
-      "type": "url",
-     "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://ppgpai-solodroid.blogspot.com/2026/04/syarat-dan-kriteria.html",
-      "url_dark": "https://ppgpai-solodroid.blogspot.com/2026/04/syarat-dan-kriteria.html"
-    },
-     {
-      "name": "Sistem Belajar",
-      "type": "url",
-     "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://ppgpai-solodroid.blogspot.com/2026/04/sistem-pembelajaran.html",
-      "url_dark": "https://ppgpai-solodroid.blogspot.com/2026/04/sistem-pembelajaran.html"
-    },
+
        {
-      "name": "Indikator Soal",
+      "name": "Sosio Kultural",
       "type": "url",
      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://ppgpai-solodroid.blogspot.com/2026/04/indikator-soal.html",
-      "url_dark": "https://ppgpai-solodroid.blogspot.com/2026/04/indikator-soal.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-sosio-kultural.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-sosio-kultural.html"
 	    },
 	{
-      "name": "Kumpulan Soal",
+      "name": "Manajerial",
       "type": "url",
       "icon": "https://img.icons8.com/?size=100&id=glOLAJEbXIQD&format=png&color=000000",
-      "url": "https://ppgpai-solodroid.blogspot.com/p/sitemap.html",
-      "url_dark": "https://ppgpai-solodroid.blogspot.com/p/sitemap.html"
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-manajerial.html"
     },
      
+	 	{
+      "name": "Teknis",
+      "type": "url",
+      "icon": "https://img.icons8.com/?size=100&id=glOLAJEbXIQD&format=png&color=000000",
+      "url": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html",
+      "url_dark": "https://pppk-solodroid.blogspot.com/p/menu-teknis.html"
+    },
+	
     {
       "name": "Privacy Policy",
       "type": "assets",
